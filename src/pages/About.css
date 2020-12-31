@@ -1,0 +1,20 @@
+.about {
+  background-color: #fff;
+}
+
+.img-section {
+  padding-top: 10rem;
+  background: url('../images/about.jpg') center center/cover no-repeat;
+  height: 60vh;
+  opacity: 0.9;
+}
+
+.text-section h2 {
+  color: black;
+}
+
+.text-section p {
+  color: black;
+  padding: 2rem;
+  line-height: 1.8rem;
+}

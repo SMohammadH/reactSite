@@ -1,0 +1,41 @@
+.section-one {
+  background-color: #333;
+}
+
+h2 {
+  color: #efefef;
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 2rem;
+}
+
+section {
+  display: flex;
+  height: 35vh;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+  color: #efefef;
+  text-align: center;
+}
+
+section h3 {
+  padding: 1rem 0;
+  font-size: 2rem;
+}
+
+.html5:hover {
+  color: yellow;
+}
+
+.css3:hover {
+  color: blue;
+}
+
+.js:hover {
+  color: goldenrod;
+}
+
+.react:hover {
+  color: royalblue;
+}
